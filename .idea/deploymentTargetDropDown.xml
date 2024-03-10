@@ -15,7 +15,18 @@
               </deviceKey>
             </Target>
           </targetSelectedWithDropDown>
-          <timeTargetWasSelectedWithDropDown value="2024-03-10T14:09:21.268342200Z" />
+          <timeTargetWasSelectedWithDropDown value="2024-03-10T18:54:17.763357300Z" />
+          <targetsSelectedWithDialog>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\BonginkosiD\.android\avd\Pixel_3a_API_34_extension_level_7_x86_64.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetsSelectedWithDialog>
         </State>
       </entry>
     </value>
