@@ -1,3 +1,5 @@
+package com.example.app
+
 import android.widget.Button
 import android.widget.EditText
 import com.example.app.MainActivity
@@ -6,6 +8,9 @@ import org.junit.Before
 import org.junit.Test
 import org.junit.runner.RunWith
 import org.mockito.Mock
+import org.mockito.Mockito
+import org.mockito.Mockito.mock
+import org.mockito.Mockito.verify
 import org.mockito.Mockito.`when`
 import org.mockito.MockitoAnnotations
 import org.robolectric.Robolectric
