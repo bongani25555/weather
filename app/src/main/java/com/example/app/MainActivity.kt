@@ -1,7 +1,9 @@
+package com.example.app
+
 import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.example.app.R
+import com.example.weatherapp.R
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.coroutines.DelicateCoroutinesApi
 import kotlinx.coroutines.Dispatchers
@@ -10,7 +12,7 @@ import kotlinx.coroutines.launch
 import org.json.JSONObject
 import java.net.URL
 
-class MainActivity : AppCompatActivity() {
+class MainActivity  : AppCompatActivity() {
     private val API_KEY = "0172e3840e895fa9d87fb8eaa73d24ad"
 
     override fun onCreate(savedInstanceState: Bundle?) {
